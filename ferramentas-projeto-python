@@ -1,0 +1,12 @@
+emacs-vscode (editor de codigo)
+venv, pyenv | pyenv local (versao python)
+bash-it (extensão terminal )
+amb virtual - poetry (ambiente virtual) principal
+git (versionamento de codigo)
+pytest(testes)
+blue,black,isort,darker (formatador) - blue (padro pep8)
+mkdocs, sphinx (documentação) mkdoc
+prospector, pylint (chekagem) prosp
+pip-audit, safety (segurança) pip-audit
+make (automações) make lint, make sec etc..
+dentro do .git/hooks criar o seu arquivo pre-commit make lint
